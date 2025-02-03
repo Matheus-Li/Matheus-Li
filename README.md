@@ -19,7 +19,7 @@ Conhecimento Avançado em:
 
 Obrigado pela visita, veja meu LinkedIn:
 
-[![Linkedin Badge](https://www.linkedin.com/in/matheus-lima-cloud/)
+![Linkedin Badge](https://www.linkedin.com/in/matheus-lima-cloud/)
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Li&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Li&layout=compact&langs_count=7&theme=dracula"/>
 
