@@ -1,23 +1,15 @@
-### 👋 Olá 👋 
+###  Hello!  
 
-Meu nome é Matheus Lima, sou de Olinda,(PE), Brasil. Formado em letras Português/Inglês.
+My name is Matheus Lima. Graduated in English and Portuguese literature, I've always been interested in programming and today I'm in the process of transitioning my career to IT, specifically backend and Devops.
 
-Sempre me interessei pela lógica de programação, Hoje trabalho como professor de inglês mas estou em processo de transição de carreira para TI, especificamente backend e Devops.
+I'm currently studying: Python, AWS, APIs RESTful.
 
-No momento estou estudando: Python, Serviçõs cloud, APIs RESTful.
+Intermediate knowledge in:![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=#4479A1)
 
-Conhecimento Básico em:
- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=#4479A1)
-
-Conhecimento Intermediario em: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E)
+Advanced knowledge in:![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=#F05032) ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-333333?style=flat&logo=Amazon_Web_Services&logoColor=#E34F26) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E)
 
 
-Conhecimento Avançado em:
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=#F05032) ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-333333?style=flat&logo=Amazon_Web_Services&logoColor=#E34F26) 
-
-
-
-Obrigado pela visita, veja meu LinkedIn:
+Thanks for the visit, see my LinkedIn:
 
 ![Linkedin Badge](https://www.linkedin.com/in/matheus-lima-cloud/)
 
