@@ -8,13 +8,7 @@ Intermediate knowledge in:![HTML5](https://img.shields.io/badge/-HTML5-333333?st
 
 Advanced knowledge in:![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=#F05032) ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-333333?style=flat&logo=Amazon_Web_Services&logoColor=#E34F26) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E)
 
-
 Thanks for the visit, see my LinkedIn:
-
-![Linkedin Badge](https://www.linkedin.com/in/matheus-lima-cloud/)
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Li&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Li&layout=compact&langs_count=7&theme=dracula"/>
-
 
 **Live Projects:**
 
