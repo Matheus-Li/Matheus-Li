@@ -2,7 +2,7 @@
 
 My name is Matheus Lima. Graduated in English and Portuguese literature, I've always been interested in programming and today I'm in the process of transitioning my career to IT, specifically backend and Devops.
 
-I'm currently studying: Python, AWS, APIs RESTful.
+I'm currently studying: Python, AWS, APIs RESTful, Java, Spring.
 
 Intermediate knowledge in:![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=#4479A1)
 
